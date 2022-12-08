@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot of Order summary card](./images/Screenshot.png)
+![Screenshot of product preview card component](./images/Screenshot.png)
 
 ### Links
 
@@ -59,4 +59,4 @@ I learned how make responsive image sizing easiest.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@lexsupdev](https://www.frontendmentor.io/profile/LexSupDev)
